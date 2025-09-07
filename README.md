@@ -80,29 +80,29 @@ The project followed a standard data science workflow:
 ### 📉 Overall Campaign Response Rate
 Only **15.1%** of customers responded to the campaign.
 
-![Overall Campaign Response Rate](https://example.com/response_rate_pie.png)
+![Overall Campaign Response Rate](https://github.com/sriks023/Camping-Marketing-Analysis-/blob/main/Overall%20Campaign%20Response%20Rate.png)
 
 ### 📊 Top Features Increasing Likelihood of Response
 Customers who are more active online and have responded before are more likely to engage.
 
-![Top Features Increasing Likelihood of Response](https://example.com/features_increasing_response.png)
+![Top Features Increasing Likelihood of Response](https://github.com/sriks023/Camping-Marketing-Analysis-/blob/main/Top%20Features%20Increasing%20Likelihood%20of%20Response.png)
 
 ### 📊 Top Features Decreasing Likelihood of Response
 Customers who haven't purchased recently or have teenagers at home are less likely to respond.
 
-![Top Features Decreasing Likelihood of Response](https://example.com/features_decreasing_response.png)
+![Top Features Decreasing Likelihood of Response](https://github.com/sriks023/Camping-Marketing-Analysis-/blob/main/Top%20Features%20Decreasing%20Likelihood%20of%20Response.png)
 
 ### 📊 Response Rate by Education Level
 Customers with higher education levels (especially PhD) have higher response rates.
 
-![Response Rate by Education Level](https://example.com/response_by_education.png)
+![Response Rate by Education Level](https://github.com/sriks023/Camping-Marketing-Analysis-/blob/main/Response%20Rate%20by%20Education%20Level.png)
 
 ### 📊 Model Performance
 - **Accuracy**: 89.57%
 - **AUC Score**: 0.5000
 - **Confusion Matrix**: Shows true vs. predicted labels
 
-![Confusion Matrix](https://example.com/confusion_matrix.png)
+![Confusion Matrix](https://github.com/sriks023/Camping-Marketing-Analysis-/blob/main/Confusion%20Matrix.png)
 
 > ⚠ Note: High accuracy but low AUC suggests the model is good at predicting "No Response" but struggles to rank high-probability responders.
 
@@ -136,9 +136,3 @@ Customers with higher education levels (especially PhD) have higher response rat
 This project successfully demonstrated how data analysis can be used to make smarter marketing decisions. By building a predictive model and interpreting its results, we identified clear patterns in customer behavior. These insights provide a practical roadmap for improving campaign effectiveness and driving better business outcomes.
 
 ---
-
-## 📄 How to Run This Project
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/customer-response-prediction.git
